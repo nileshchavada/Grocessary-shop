@@ -1,0 +1,30 @@
+.Footer {
+  border-top: 1 px solid lightgrey;
+  padding: 15px;
+  background-color: white;
+  text-align: center;
+  color: rgb(1, 51, 40);
+
+}
+
+.Footer > p {
+  padding: 2px;
+  font-size: 14px;
+  color: rgb(1, 51, 40);
+  margin-left: -50px;
+  margin-top: 10px;
+}
+.Footer > h1 {
+  margin-left: -50px;
+  margin-top: 20px;
+}
+
+.Footer__logo {
+  display: flex;
+  align-items: center;
+  margin-left: 560px;
+}
+
+.insta_logo {
+  margin-left: 1px;
+}

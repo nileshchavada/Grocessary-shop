@@ -1,0 +1,18 @@
+.homescreen {
+  max-width: 1300px;
+  margin: 2rem auto;
+}
+.homescreen_title {
+  font-size: 1.3rem;
+  color: black;
+  margin-bottom: 1rem;
+  margin-top: 8rem;
+  margin-left: 8px;
+  font-family: cursive;
+}
+
+.homescreen_products {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  font-family: cursive;
+}
